@@ -15,3 +15,4 @@ Version- Details
 3.0 - Attributes added in the HTML skeleton
 4.0 - Added Image and Href tags
 5.0 - Pre and Blockquote added
+6.0 - Adding Style sheet to HTML skeleton

@@ -1,0 +1,17 @@
+body {
+  background-color: orange}
+h1 {
+  color: blue;
+  font-family: verdana;
+  font-size: 300%;
+}
+p {
+  color: red;
+  font-family: verdana;
+  font-size: 100%;
+}
+pre{
+	color: maroon;
+	font-family: verdana;
+  font-size: 300%;
+}
