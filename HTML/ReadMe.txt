@@ -14,3 +14,4 @@ Version- Details
 2.0 - Different Heading Addded in the code 
 3.0 - Attributes added in the HTML skeleton
 4.0 - Added Image and Href tags
+5.0 - Pre and Blockquote added
