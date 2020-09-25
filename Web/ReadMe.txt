@@ -18,3 +18,4 @@ Version - Details
 6.0 - Adding Style sheet to HTML skeleton
 7.0 - Restructing the code depository
 8.0 - Changing the references of the updated code
+9.0 - More Dummy pages added
